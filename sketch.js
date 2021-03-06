@@ -24,7 +24,7 @@ function setup() {
 function draw() { 
   background(0);
   drawSprites();
- 
+ back.velocityY=5;
   
 
 
